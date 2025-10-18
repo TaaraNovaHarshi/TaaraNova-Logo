@@ -1,2 +1,2 @@
 # TaaraNova-Logo
-TaaraNova brand name logo
+TaaraNova logo (brand name & monogram)
