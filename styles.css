@@ -85,7 +85,7 @@ body {
   font-weight: bold;
   letter-spacing: 1px;
   font-family: monospace;
-  transform: translateX(-355px) translateY(12px);
+  transform: translateX(-375px) translateY(1px);
 }
 
 /* Drop shadows for glow */
